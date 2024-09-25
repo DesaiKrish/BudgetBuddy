@@ -1,0 +1,26 @@
+# Flutter related
+.idea/
+android/.gradle/
+android/app/debug/
+android/app/release/
+android/local.properties
+android/.idea/
+build/
+ios/Pods/
+flutter_plugin_tools.stamp
+.macos/
+.linux/
+.windows/
+
+# Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+pubspec.lock
+
+# Firebase
+firebase.json
+
+# Miscellaneous
+*.iml
+.metadata

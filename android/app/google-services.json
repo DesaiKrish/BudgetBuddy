@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69900751889",
+    "project_id": "budbdy",
+    "storage_bucket": "budbdy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69900751889:android:db41ad39aeef28e824cdb0",
+        "android_client_info": {
+          "package_name": "com.example.budbdy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALu1b2Mv1N0cbmMER7hFnuqLerzHK1-Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
